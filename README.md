@@ -157,7 +157,7 @@ All other code in this repository is released under the conditions of [CC0](http
 
 ## Running tests locally
 
-See https://github.com/PQClean/PQClean/wiki/Test-framework for details about the PQClean test framework.
+See https://github.com/AnuvabSen/PQCLEAN/wiki for details about the PQClean test framework.
 
 While we run extensive automatic testing on Github Actions ((emulated) Linux builds, MacOS and Windows builds) and [Travis CI][travis-pqc] (Aarch64 builds), and most tests can also be run locally.
 To do this, make sure the following is installed:
